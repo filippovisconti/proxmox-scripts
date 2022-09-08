@@ -1,6 +1,6 @@
 # Proxmox scripts
 
-Some useful proxmox scripts...
+Some useful Proxmox scripts.
 
 ## Scripts
 
